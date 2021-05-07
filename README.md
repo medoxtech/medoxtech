@@ -1,5 +1,5 @@
-- 👋 Hi, I’m mohamed
-- 👀 I’m interested in full stuck development
+- 👋 Hi, I’m mohamed 
+<!--- 👀 I’m interested in full stuck development
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on MERN Projects
 - 📫 you can reach me by e-mail or instagram: /medhelorabi
